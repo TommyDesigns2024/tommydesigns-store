@@ -1,0 +1,6 @@
+title: Tommy Designs Store
+description: Signature camouflage apparel & outdoor gear
+url: "https://www.tommy-designs.store"
+theme: minima
+plugins:
+  - jekyll-feed
